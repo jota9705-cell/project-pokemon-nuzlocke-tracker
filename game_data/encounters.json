@@ -1,0 +1,4801 @@
+[
+  {
+    "id": "002",
+    "name": "Pueblo Paleta",
+    "pokemon_complete": [
+      {
+        "name": "PIDGEY",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "LEDYBA",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "RATTATA",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "MAREEP",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "FIDOUGH",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "POOCHYENA",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "SENTRET",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "SMOLIV",
+        "min_level": 2,
+        "max_level": 4
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "LEDYBA",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "MAREEP",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "PIDGEY",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "RATTATA",
+        "min_level": 2,
+        "max_level": 4
+      }
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Ruta 1",
+    "pokemon_complete": [
+      {
+        "name": "BIDOOF",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "FLABEBE",
+        "min_level": 2,
+        "max_level": 4
+      },
+      {
+        "name": "LEDYBA",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "LITLEO",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "MAREEP",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "PIDGEY",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "STARLY",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "PATRAT",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "PURRLOIN",
+        "min_level": 3,
+        "max_level": 5
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "PIDGEY",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "LEDYBA",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "RATTATA",
+        "min_level": 3,
+        "max_level": 5
+      },
+      {
+        "name": "MAREEP",
+        "min_level": 3,
+        "max_level": 5
+      }
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Ciudad Verde",
+    "pokemon_complete": [
+      {
+        "name": "GLAMEOW",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "HOPPIP",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "PIDOVE",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "SNUBBULL",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "TIMBURR",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "MASCHIFF",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "POLTCHAGEIST",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "WOOLOO",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "CUBCHOO",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "MILCERY",
+        "min_level": 4,
+        "max_level": 6
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "PIDGEY",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "HOPPIP",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "SNUBBULL",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "MANKEY",
+        "min_level": 4,
+        "max_level": 6
+      }
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Ruta 22",
+    "pokemon_complete": [
+      {
+        "name": "MANKEY",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "NIDORANfE",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "NIDORANmA",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "POOCHYENA",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "FLETCHLING",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "SPEAROW",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "BUNEARY",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "SKWOVET",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "ROCKRUFF",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "SWINUB",
+        "min_level": 4,
+        "max_level": 6
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "SPEAROW",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "MANKEY",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "NIDORANfE",
+        "min_level": 4,
+        "max_level": 6
+      },
+      {
+        "name": "NIDORANmA",
+        "min_level": 4,
+        "max_level": 6
+      }
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Ruta 2 Sur",
+    "pokemon_complete": [
+      {
+        "name": "ODDISH",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "ROCKRUFF",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "SEEDOT",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "WOOPER",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "GULPIN",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "DWEBBLE",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "PAWNIARD",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "SCRAGGY",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "SHINX",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "SNOVER",
+        "min_level": 5,
+        "max_level": 6
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "PIDGEY",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "EKANS",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "ODDISH",
+        "min_level": 5,
+        "max_level": 6
+      },
+      {
+        "name": "WOOPER",
+        "min_level": 5,
+        "max_level": 6
+      }
+    ]
+  },
+  {
+    "id": "007",
+    "name": "Ruta 2 Norte",
+    "pokemon_complete": [
+      {
+        "name": "BUNNELBY",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "EXEGGCUTE",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "GULPIN",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "RALTS",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "VENIPEDE",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "CUFANT",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "BRAMBLIN",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "NOIBAT",
+        "min_level": 7,
+        "max_level": 9
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "PIDGEY",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "CATERPIE",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "EXEGGCUTE",
+        "min_level": 7,
+        "max_level": 9
+      },
+      {
+        "name": "WEEDLE",
+        "min_level": 7,
+        "max_level": 9
+      }
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Bosque Verde",
+    "pokemon_complete": [
+      {
+        "name": "CATERPIE",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "SLAKOTH",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "WEEDLE",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "MORELULL",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "KRICKETOT",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "TAROUNTULA",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "WURMPLE",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "BURMY",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "PIKACHU",
+        "min_level": 6,
+        "max_level": 8
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CATERPIE",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "KAKUNA",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "METAPOD",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "PIKACHU",
+        "min_level": 6,
+        "max_level": 8
+      },
+      {
+        "name": "WEEDLE",
+        "min_level": 6,
+        "max_level": 8
+      }
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Ciudad Plateada",
+    "pokemon_complete": [
+      {
+        "name": "BONSLY",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "ELEKID",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "LILLIPUP",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "MACHOP",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "SKITTY",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "ZIGZAGOON",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "BRONZOR",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "VANILLITE",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "SPOINK",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "TYNAMO",
+        "min_level": 9,
+        "max_level": 11
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "BONSLY",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "ELEKID",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "MACHOP",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "PIDGEY",
+        "min_level": 9,
+        "max_level": 11
+      },
+      {
+        "name": "RATTATA",
+        "min_level": 9,
+        "max_level": 11
+      }
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Ruta 3",
+    "pokemon_complete": [
+      {
+        "name": "EKANS",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PHANPY",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "BUDEW",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "LECHONK",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PAWMI",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SPINARAK",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "MEOWTH_1",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SANDSHREW_1",
+        "min_level": 10,
+        "max_level": 13
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "EKANS",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "HOPPIP",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PHANPY",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SPINARAK",
+        "min_level": 10,
+        "max_level": 13
+      }
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Ruta 3",
+    "pokemon_complete": [
+      {
+        "name": "EKANS",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PHANPY",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "BUDEW",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "LECHONK",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PAWMI",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SPINARAK",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "STUNKY",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SANDSHREW_1",
+        "min_level": 10,
+        "max_level": 13
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "EKANS",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "HOPPIP",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "PHANPY",
+        "min_level": 10,
+        "max_level": 13
+      },
+      {
+        "name": "SPINARAK",
+        "min_level": 10,
+        "max_level": 13
+      }
+    ]
+  },
+  {
+    "id": "012",
+    "name": "Monte Moon Exterior",
+    "pokemon_complete": [
+      {
+        "name": "CLEFAIRY",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "CUBONE",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "ELGYEM",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "MUNNA",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "TINKATINK",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "NIDORANfE",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "NIDORANmA",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "YAMASK_1",
+        "min_level": 14,
+        "max_level": 16
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CLEFAIRY",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "CUBONE",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 14,
+        "max_level": 16
+      },
+      {
+        "name": "SPEAROW",
+        "min_level": 14,
+        "max_level": 16
+      }
+    ]
+  },
+  {
+    "id": "014",
+    "name": "Ruta 4",
+    "pokemon_complete": [
+      {
+        "name": "HOUNDOUR",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "IMPIDIMP",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "STUNKY",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "TEDDIURSA",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "CACNEA",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "YAMPER",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "ROOKIDEE",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "VAROOM",
+        "min_level": 16,
+        "max_level": 18
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "HOUNDOUR",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "PARAS",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "SPEAROW",
+        "min_level": 16,
+        "max_level": 18
+      },
+      {
+        "name": "TEDDIURSA",
+        "min_level": 16,
+        "max_level": 18
+      }
+    ]
+  },
+  {
+    "id": "015",
+    "name": "Ciudad Celeste",
+    "pokemon_complete": [
+      {
+        "name": "AIPOM",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "CROAGUNK",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "DROWZEE",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "PETILIL",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "HOOTHOOT",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "WATTREL",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "MEDITITE",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "WINGULL",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "POLIWAG",
+        "min_level": 17,
+        "max_level": 18
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "AIPOM",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "BELLSPROUT",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "DROWZEE",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "HOOTHOOT",
+        "min_level": 17,
+        "max_level": 18
+      },
+      {
+        "name": "WOOPER",
+        "min_level": 17,
+        "max_level": 18
+      }
+    ]
+  },
+  {
+    "id": "016",
+    "name": "Ruta 20",
+    "pokemon_complete": [
+      {
+        "name": "ABRA",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "BUIZEL",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "DEERLING",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "SHINX",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "BELLSPROUT",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "ODDISH",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "FOMANTIS",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "BINACLE",
+        "min_level": 18,
+        "max_level": 20
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ABRA",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "HOOTHOOT",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "ODDISH",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 18,
+        "max_level": 20
+      },
+      {
+        "name": "WOOPER",
+        "min_level": 18,
+        "max_level": 20
+      }
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Ruta 21",
+    "pokemon_complete": [
+      {
+        "name": "ABRA",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "BUIZEL",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "DEERLING",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "SHINX",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "FOONGUS",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "LOMBRE",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "NUZLEAF",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "TOEDSCOOL",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "WOOPER_1",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "SQUAWKABILLY",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "SQUAWKABILLY_1",
+        "min_level": 19,
+        "max_level": 21
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ABRA",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "HOOTHOOT",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "ODDISH",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 19,
+        "max_level": 21
+      },
+      {
+        "name": "WOOPER",
+        "min_level": 19,
+        "max_level": 21
+      }
+    ]
+  },
+  {
+    "id": "017",
+    "name": "Ruta 5",
+    "pokemon_complete": [
+      {
+        "name": "SWABLU",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "VULPIX",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "SUNKERN",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "DUNSPARCE",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "FIDOUGH",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "FLOETTE",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "GRUBBIN",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "MEOWTH",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "DITTO",
+        "min_level": 20,
+        "max_level": 21
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DUNSPARCE",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "MEOWTH",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "SUNKERN",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 20,
+        "max_level": 21
+      },
+      {
+        "name": "VULPIX",
+        "min_level": 20,
+        "max_level": 21
+      }
+    ]
+  },
+  {
+    "id": "018",
+    "name": "Ruta 6",
+    "pokemon_complete": [
+      {
+        "name": "MAGNEMITE",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SPOINK",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SWELLOW",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "NYMBLE",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "PINECO",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SPRITZEE",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SWIRLIX",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "FURFROU",
+        "min_level": 20,
+        "max_level": 22
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "PIDGEOTTO",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "PINECO",
+        "min_level": 20,
+        "max_level": 22
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 20,
+        "max_level": 22
+      }
+    ]
+  },
+  {
+    "id": "019",
+    "name": "Ciudad Carmín",
+    "pokemon_complete": [
+      {
+        "name": "DRILBUR",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "GRIMER",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "LIEPARD",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PURRLOIN",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MEOWTH_2",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL_1",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PINCURCHIN",
+        "min_level": 21,
+        "max_level": 24
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GRIMER",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PIDGEOTTO",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "RATICATE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 21,
+        "max_level": 24
+      }
+    ]
+  },
+  {
+    "id": "216",
+    "name": "Ciudad Carmín",
+    "pokemon_complete": [
+      {
+        "name": "DRILBUR",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "GRIMER",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "LIEPARD",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PURRLOIN",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MEOWTH_2",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MRMIME",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL_1",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PINCURCHIN",
+        "min_level": 21,
+        "max_level": 24
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GRIMER",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "PIDGEOTTO",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "RATICATE",
+        "min_level": 21,
+        "max_level": 24
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 21,
+        "max_level": 24
+      }
+    ]
+  },
+  {
+    "id": "020",
+    "name": "Ruta 15",
+    "pokemon_complete": [
+      {
+        "name": "SIZZLIPEDE",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SOLOSIS",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "YAMPER",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SENTRET",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "CHARCADET",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SKIPLOOM",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "NOCTOWL",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SEVIPER",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "ZANGOOSE",
+        "min_level": 22,
+        "max_level": 25
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DROWZEE",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "EKANS",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SKIPLOOM",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "SENTRET",
+        "min_level": 22,
+        "max_level": 25
+      },
+      {
+        "name": "NOCTOWL",
+        "min_level": 22,
+        "max_level": 25
+      }
+    ]
+  },
+  {
+    "id": "022",
+    "name": "Ruta 9",
+    "pokemon_complete": [
+      {
+        "name": "CORVISQUIRE",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "CUTIEFLY",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "DARUMAKA",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "SANDILE",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "SKIDDO",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "FARFETCHD_1",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "LAIRON",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "STANTLER",
+        "min_level": 25,
+        "max_level": 28
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GROWLITHE",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "ODDISH",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "RHYHORN",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 25,
+        "max_level": 28
+      },
+      {
+        "name": "STANTLER",
+        "min_level": 25,
+        "max_level": 28
+      }
+    ]
+  },
+  {
+    "id": "023",
+    "name": "Ruta 10 Norte",
+    "pokemon_complete": [
+      {
+        "name": "ELECTRIKE",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "FARFETCHD",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "SALANDIT",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "VOLTORB",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "ORTHWORM",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "GEODUDE_1",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "WEEPINBELL",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "VOLTORB_1",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "BLITZLE",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "KLINK",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "MINUN",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "PLUSLE",
+        "min_level": 26,
+        "max_level": 29
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "FARFETCHD",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "GROWLITHE",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "VOLTORB",
+        "min_level": 26,
+        "max_level": 29
+      },
+      {
+        "name": "WEEPINBELL",
+        "min_level": 26,
+        "max_level": 29
+      }
+    ]
+  },
+  {
+    "id": "024",
+    "name": "Ruta 10 Sur",
+    "pokemon_complete": [
+      {
+        "name": "CUBONE",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "NATU",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "PHANTUMP",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "SHROOMISH",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "ZORUA",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "CASTFORM",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "GOLETT",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "LITWICK",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "PUMPKABOO",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "INKAY",
+        "min_level": 28,
+        "max_level": 31
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CUBONE",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "DROWZEE",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "GLOOM",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "GROWLITHE",
+        "min_level": 28,
+        "max_level": 31
+      },
+      {
+        "name": "NATU",
+        "min_level": 28,
+        "max_level": 31
+      }
+    ]
+  },
+  {
+    "id": "071",
+    "name": "Ruta 8",
+    "pokemon_complete": [
+      {
+        "name": "GROWLITHE",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "IMPIDIMP",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "MURKROW",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "VULPIX",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "CAPSAKID",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "SHELMET",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "KARRABLAST",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "COMFEY",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "KLEFKI",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "NINCADA",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "GUMSHOOS",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "ROTOM",
+        "min_level": 32,
+        "max_level": 34
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GROWLITHE",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "MANKEY",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "MURKROW",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "SANDSHREW",
+        "min_level": 32,
+        "max_level": 34
+      },
+      {
+        "name": "VULPIX",
+        "min_level": 32,
+        "max_level": 34
+      }
+    ]
+  },
+  {
+    "id": "072",
+    "name": "Ruta 7",
+    "pokemon_complete": [
+      {
+        "name": "CROAGUNK",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "HATENNA",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "MISDREAVUS",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "RELLOR",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "ROSELIA",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "SAWK",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "SINISTEA",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "THROH",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "MIMIKYU",
+        "min_level": 33,
+        "max_level": 35
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "JIGGLYPUFF",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "KADABRA",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "MISDREAVUS",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "WEEPINBELL",
+        "min_level": 33,
+        "max_level": 35
+      }
+    ]
+  },
+  {
+    "id": "076",
+    "name": "Ciudad Azulona",
+    "pokemon_complete": [
+      {
+        "name": "APPLIN",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "ELEKID",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "ROSELIA",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "AIPOM",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "CUTIEFLY",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "FLITTLE",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "RIBOMBEE",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "PANPOUR",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "PANSAGE",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "PANSEAR",
+        "min_level": 33,
+        "max_level": 35
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "AIPOM",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "ELEKID",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "GLOOM",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "MAGNEMITE",
+        "min_level": 33,
+        "max_level": 35
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 33,
+        "max_level": 35
+      }
+    ]
+  },
+  {
+    "id": "086",
+    "name": "Ruta 12 Norte",
+    "pokemon_complete": [
+      {
+        "name": "CRABRAWLER",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "DRAPION",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "KILOWATTREL",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "YANMA",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "LINOONE_1",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "SLOWPOKE_1",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "SCYTHER",
+        "min_level": 38,
+        "max_level": 40
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "FARFETCHD",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "QUAGSIRE",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 38,
+        "max_level": 40
+      },
+      {
+        "name": "YANMA",
+        "min_level": 38,
+        "max_level": 40
+      }
+    ]
+  },
+  {
+    "id": "087",
+    "name": "Ruta 11",
+    "pokemon_complete": [
+      {
+        "name": "DODUO",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "HERACROSS",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "SLUGMA",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "TRUBBISH",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "MASCHIFF",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "SHROODLE",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "BOMBIRDIER",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "KOMALA",
+        "min_level": 34,
+        "max_level": 36
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DODUO",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "HERACROSS",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "GRIMER",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "SLUGMA",
+        "min_level": 34,
+        "max_level": 36
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 34,
+        "max_level": 36
+      }
+    ]
+  },
+  {
+    "id": "091",
+    "name": "Pueblo Marengo",
+    "pokemon_complete": [
+      {
+        "name": "MILTANK",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "TAUROS",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "SKIDDO",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "DUBWOOL",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "MUDBRAY",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "MUDSDALE",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "WOOLOO",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "GOGOAT",
+        "min_level": 40,
+        "max_level": 42
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DODRIO",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "MILTANK",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "PONYTA",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "SUNFLORA",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "TAUROS",
+        "min_level": 40,
+        "max_level": 42
+      }
+    ]
+  },
+  {
+    "id": "092",
+    "name": "Ruta 13",
+    "pokemon_complete": [
+      {
+        "name": "CHARJABUG",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "ELDEGOSS",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "GLIGAR",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "LICKITUNG",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "GASTRODON",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "SHELLOS",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "DITTO",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "TROPIUS",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "CORSOLA_1",
+        "min_level": 40,
+        "max_level": 42
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GLIGAR",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "SKIPLOOM",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "LICKITUNG",
+        "min_level": 40,
+        "max_level": 42
+      },
+      {
+        "name": "DITTO",
+        "min_level": 40,
+        "max_level": 42
+      }
+    ]
+  },
+  {
+    "id": "093",
+    "name": "Ruta 14",
+    "pokemon_complete": [
+      {
+        "name": "FLOETTE",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "SKITTY",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "CHIMECHO",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "DRIFLOON",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "FLETCHINDER",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "OINKOLOGNE",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "PINSIR",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "DRIFBLIM",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "DITTO",
+        "min_level": 41,
+        "max_level": 43
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ARBOK",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "GRANBULL",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "HYPNO",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "PINSIR",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "BUTTERFREE",
+        "min_level": 41,
+        "max_level": 43
+      },
+      {
+        "name": "DITTO",
+        "min_level": 41,
+        "max_level": 43
+      }
+    ]
+  },
+  {
+    "id": "094",
+    "name": "Ciudad Fucsia",
+    "pokemon_complete": [
+      {
+        "name": "SCRAGGY",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "TOXTRICITY",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "TOXTRICITY_1",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "PINECO",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "GLAMEOW",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "ILLUMISE",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "PURUGLY",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "VOLBEAT",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "FORRETRESS",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "TANDEMAUS",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "AUDINO",
+        "min_level": 42,
+        "max_level": 44
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ARIADOS",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "DUNSPARCE",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "KADABRA",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "VENOMOTH",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "PINECO",
+        "min_level": 42,
+        "max_level": 44
+      },
+      {
+        "name": "FORRETRESS",
+        "min_level": 42,
+        "max_level": 44
+      }
+    ]
+  },
+  {
+    "id": "095",
+    "name": "Ruta 16",
+    "pokemon_complete": [
+      {
+        "name": "DOTTLER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "RUFFLET",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SALAZZLE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "VULLABY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "HELIOLISK",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SMEARGLE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "DODRIO",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "FLAMIGO",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "GOLISOPOD",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "STANTLER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "ORICORIO",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ELECTABUZZ",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "FEAROW",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PIDGEOT",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "STANTLER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "LICKITUNG",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SMEARGLE",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "097",
+    "name": "Ruta 17",
+    "pokemon_complete": [
+      {
+        "name": "ORANGURU",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PASSIMIAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SANDYGAST",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TOUCANNON",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PELIPPER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "WINGULL",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PYUKUMUKU",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "WUGTRIO",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "WIGLETT",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "EXEGGUTOR_1",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "KINGLER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "MACHOKE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "MAGNETON",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PERSIAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "WEEPINBELL",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "099",
+    "name": "Ciudad Azafrán",
+    "pokemon_complete": [
+      {
+        "name": "GOTHORITA",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "MANECTRIC",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "MEOWSTIC",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "NUZLEAF",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "NICKIT",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "THIEVUL",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "KECLEON",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "INDEEDEE",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "SIGILYPH",
+        "min_level": 46,
+        "max_level": 48
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ELECTRODE",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "KADABRA",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "RATICATE",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "XATU",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "SNEASEL",
+        "min_level": 46,
+        "max_level": 48
+      },
+      {
+        "name": "PERSIAN",
+        "min_level": 46,
+        "max_level": 48
+      }
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Ruta 19",
+    "pokemon_complete": [
+      {
+        "name": "CHATOT",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "LOUDRED",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "MEDITITE",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "VESPIQUEN",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "CRAWDAUNT",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "WYNAUT",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "MEDICHAM",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "CARNIVINE",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "MARACTUS",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "MINCCINO",
+        "min_level": 50,
+        "max_level": 52
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "EXEGGUTOR",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "KINGLER",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "SCYTHER",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "HERACROSS",
+        "min_level": 50,
+        "max_level": 52
+      },
+      {
+        "name": "WYNAUT",
+        "min_level": 50,
+        "max_level": 52
+      }
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Ruta 12 Sur",
+    "pokemon_complete": [
+      {
+        "name": "CRABRAWLER",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "DRAPION",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "KILOWATTREL",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "YANMA",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "SCYTHER",
+        "min_level": 39,
+        "max_level": 41
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "FARFETCHD",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "QUAGSIRE",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "TANGELA",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "VENONAT",
+        "min_level": 39,
+        "max_level": 41
+      },
+      {
+        "name": "YANMA",
+        "min_level": 39,
+        "max_level": 41
+      }
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Camino de Bicis",
+    "pokemon_complete": [
+      {
+        "name": "GURDURR",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "LINOONE",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "MIGHTYENA",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "CYCLIZAR",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "FALINKS",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "SKUNTANK",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "VAROOM",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "PERRSERKER",
+        "min_level": 43,
+        "max_level": 46
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GRANBULL",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "PRIMEAPE",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "URSARING",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "WEEZING",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "MAGCARGO",
+        "min_level": 43,
+        "max_level": 46
+      },
+      {
+        "name": "SLUGMA",
+        "min_level": 43,
+        "max_level": 46
+      }
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Zona Safari 1",
+    "pokemon_complete": [
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "KANGASKHAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PYROAR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TSAREENA",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TAUROS",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "BOUFFALANT",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GIRAFARIG",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "KANGASKHAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TAUROS",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "EXEGGCUTE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "NIDORINA",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "NIDORINO",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Zona Safari 2",
+    "pokemon_complete": [
+      {
+        "name": "BEWEAR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "DARUMAKA",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "HIPPOPOTAS",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "KLEAVOR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SKARMORY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TURTONATOR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CUFANT",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "KANGASKHAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "KLEAVOR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SKARMORY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "PRIMEAPE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "RHYDON",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "RHYHORN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Zona Safari 3",
+    "pokemon_complete": [
+      {
+        "name": "PALPITOAD",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "STUNFISK",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SWALOT",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CROAGUNK",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "MASQUERAIN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SURSKIT",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "VENOMOTH",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TOEDSCRUEL",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "POLIWHIRL",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "VENOMOTH",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "YANMA",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "GLOOM",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "GRIMER",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "VILEPLUME",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "MUK",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Zona Safari 4",
+    "pokemon_complete": [
+      {
+        "name": "BALTOY",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CACTURNE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "BRAMBLIN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "NUMEL",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SILICOBRA",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SIZZLIPEDE",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "TRAPINCH",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "DONPHAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DONPHAN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "HOUNDOOM",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "SANDSLASH",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "GLIGAR",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "RHYDON",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "RHYHORN",
+        "min_level": 42,
+        "max_level": 45
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 42,
+        "max_level": 45
+      }
+    ]
+  },
+  {
+    "id": "154",
+    "name": "Ruta 21",
+    "pokemon_complete": [
+      {
+        "name": "ABSOL",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "CORVIKNIGHT",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "FLOATZEL",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "HAWLUCHA",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "LYCANROC",
+        "min_level": 62,
+        "max_level": 64
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DODRIO",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "EXEGGUTOR",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "FORRETRESS",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "QUAGSIRE",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "SANDSLASH",
+        "min_level": 62,
+        "max_level": 64
+      }
+    ]
+  },
+  {
+    "id": "155",
+    "name": "Ruta 22",
+    "pokemon_complete": [
+      {
+        "name": "BRAVIARY",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "EXPLOUD",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "GIRAFARIG",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "HARIYAMA",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "MIENSHAO",
+        "min_level": 62,
+        "max_level": 64
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GIRAFARIG",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "HERACROSS",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "PIDGEOT",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "QUAGSIRE",
+        "min_level": 62,
+        "max_level": 64
+      },
+      {
+        "name": "RAPIDASH",
+        "min_level": 62,
+        "max_level": 64
+      }
+    ]
+  },
+  {
+    "id": "156",
+    "name": "Ruta 22",
+    "pokemon_complete": [
+      {
+        "name": "BRAVIARY",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "EXPLOUD",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "GIRAFARIG",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "HARIYAMA",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "MIENSHAO",
+        "min_level": 63,
+        "max_level": 65
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GIRAFARIG",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "HERACROSS",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "PIDGEOT",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "QUAGSIRE",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "RAPIDASH",
+        "min_level": 63,
+        "max_level": 65
+      }
+    ]
+  },
+  {
+    "id": "158",
+    "name": "Ruta 23",
+    "pokemon_complete": [
+      {
+        "name": "MEDICHAM",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "NOIVERN",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "ROSERADE",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "SNEASLER",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "SIRFETCHD",
+        "min_level": 63,
+        "max_level": 65
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DONPHAN",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "SNEASLER",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "TANGROWTH",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "URSARING",
+        "min_level": 63,
+        "max_level": 65
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 63,
+        "max_level": 65
+      }
+    ]
+  },
+  {
+    "id": "161",
+    "name": "Monte Plateado",
+    "pokemon_complete": [
+      {
+        "name": "GOLURK",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "SNEASLER",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "URSARING",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "KLAWF",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "ZWEILOUS",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "STONJOURNER",
+        "min_level": 64,
+        "max_level": 66
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DONPHAN",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "GOLEM",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "SNEASLER",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "URSARING",
+        "min_level": 64,
+        "max_level": 66
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 64,
+        "max_level": 66
+      }
+    ]
+  },
+  {
+    "id": "163",
+    "name": "Monte Plateado",
+    "pokemon_complete": [
+      {
+        "name": "ARCTIBAX",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "FROSMOTH",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "METANG",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "PUPITAR",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "WEAVILE",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "ABOMASNOW",
+        "min_level": 65,
+        "max_level": 67
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "GOLBAT",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "GOLEM",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "PILOSWINE",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "PUPITAR",
+        "min_level": 65,
+        "max_level": 67
+      },
+      {
+        "name": "WEAVILE",
+        "min_level": 65,
+        "max_level": 67
+      }
+    ]
+  },
+  {
+    "id": "166",
+    "name": "Ruta 25",
+    "pokemon_complete": [
+      {
+        "name": "BEARTIC",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "CETITAN",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "FROSMOTH",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "MAMOSWINE",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "SKARMORY",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "ABOMASNOW",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "AVALUGG_1",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "DARMANITAN_2",
+        "min_level": 66,
+        "max_level": 68
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DELIBIRD",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "MAMOSWINE",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "MRMIME",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "SKARMORY",
+        "min_level": 66,
+        "max_level": 68
+      },
+      {
+        "name": "WEAVILE",
+        "min_level": 66,
+        "max_level": 68
+      }
+    ]
+  },
+  {
+    "id": "167",
+    "name": "Ciudad Anil",
+    "pokemon_complete": [
+      {
+        "name": "AMPHAROS",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "CETITAN",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "FROSMOTH",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "GRANBULL",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "CHANSEY",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "DUNSPARCE",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "MRMIME_1",
+        "min_level": 67,
+        "max_level": 69
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "AMPHAROS",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "DUNSPARCE",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "GRANBULL",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "MRMIME",
+        "min_level": 67,
+        "max_level": 69
+      },
+      {
+        "name": "WEAVILE",
+        "min_level": 67,
+        "max_level": 69
+      }
+    ]
+  },
+  {
+    "id": "174",
+    "name": "Bosque Celeste",
+    "pokemon_complete": [
+      {
+        "name": "BRUTEBONNET",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "FLUTTERMANE",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "GREATTUSK",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONBUNDLE",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONHANDS",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONJUGULIS",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONMOTH",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONTHORNS",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONTREADS",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "SANDYSHOCKS",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "SCREAMTAIL",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "SLITHERWING",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "ROARINGMOON",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "IRONVALIANT",
+        "min_level": 58,
+        "max_level": 60
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ALAKAZAM",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "CLEFABLE",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "LICKILICKY",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "MAGNETON",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "VENOMOTH",
+        "min_level": 58,
+        "max_level": 60
+      },
+      {
+        "name": "MAGNEZONE",
+        "min_level": 58,
+        "max_level": 60
+      }
+    ]
+  },
+  {
+    "id": "178",
+    "name": "Claro Oculto",
+    "pokemon_complete": [
+      {
+        "name": "UNOWN",
+        "min_level": 10,
+        "max_level": 50
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "UNOWN",
+        "min_level": 10,
+        "max_level": 50
+      }
+    ]
+  },
+  {
+    "id": "184",
+    "name": "Ruta 26",
+    "pokemon_complete": [
+      {
+        "name": "PANGORO",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "PINECO",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "RIOLU",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "DUOSION",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "REUNICLUS",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "ROSELIA",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "ROSERADE",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "PANGORO",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "PINECO",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "RIOLU",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "DUOSION",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "REUNICLUS",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "ROSELIA",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "ROSERADE",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ]
+  },
+  {
+    "id": "185",
+    "name": "Villa Azabache",
+    "pokemon_complete": [
+      {
+        "name": "DRAKLOAK",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "GALVANTULA",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "SCOVILLAIN",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "STARAPTOR",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "VESPIQUEN",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "RATICATE_1",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "DRAKLOAK",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "GALVANTULA",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "SCOVILLAIN",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "STARAPTOR",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "VESPIQUEN",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ]
+  },
+  {
+    "id": "186",
+    "name": "Cabo Azabache",
+    "pokemon_complete": [
+      {
+        "name": "BRAVIARY",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "DOUBLADE",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "FLYGON",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "LYCANROC",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "NOSEPASS",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "BRAVIARY",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "DOUBLADE",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "FLYGON",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "LYCANROC",
+        "min_level": 73,
+        "max_level": 75
+      },
+      {
+        "name": "NOSEPASS",
+        "min_level": 73,
+        "max_level": 75
+      }
+    ]
+  },
+  {
+    "id": "189",
+    "name": "Ruta 27",
+    "pokemon_complete": [
+      {
+        "name": "BISHARP",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GOLURK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "KROKOROK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LYCANROC",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "RHYPERIOR",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "ARCANINE_1",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "MACHOKE",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PERRSERKER",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "BISHARP",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GOLURK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "KROKOROK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LYCANROC",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "RHYPERIOR",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ]
+  },
+  {
+    "id": "213",
+    "name": "Almacen Secreto",
+    "pokemon_complete": [
+      {
+        "name": "BISHARP",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "MIGHTYENA",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "NIDOKING",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "NIDOQUEEN",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PIDGEOT",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "ARBOK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "STUNFISK_1",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "WEEZING_1",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "BISHARP",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "MIGHTYENA",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "NIDOKING",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "NIDOQUEEN",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PIDGEOT",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ]
+  },
+  {
+    "id": "190",
+    "name": "Islote Recuerdo",
+    "pokemon_complete": [
+      {
+        "name": "CRUSTLE",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GARDEVOIR",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "KOMMOO",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "TSAREENA",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LUNATONE",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "SOLROCK",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "SLOWBRO_1",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "SLOWKING_1",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CRUSTLE",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GARDEVOIR",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "KOMMOO",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "TSAREENA",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LUNATONE",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "SOLROCK",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ]
+  },
+  {
+    "id": "191",
+    "name": "Ruta 28",
+    "pokemon_complete": [
+      {
+        "name": "BRONZONG",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "FERROTHORN",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GRAPPLOCT",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LEAVANNY",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PALOSSAND",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "BRAVIARY_1",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "EXEGGUTOR_1",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PERSIAN_1",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "BRONZONG",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "FERROTHORN",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "GRAPPLOCT",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "LEAVANNY",
+        "min_level": 74,
+        "max_level": 76
+      },
+      {
+        "name": "PALOSSAND",
+        "min_level": 74,
+        "max_level": 76
+      }
+    ]
+  },
+  {
+    "id": "194",
+    "name": "Ruta 29",
+    "pokemon_complete": [
+      {
+        "name": "ABSOL",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "BELLIBOLT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "DRAMPA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "FLOETTE",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "WHIMSICOTT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "GOLEM_1",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "OVERQWIL",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ABSOL",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "BELLIBOLT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "DRAMPA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "FLOETTE",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "WHIMSICOTT",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ]
+  },
+  {
+    "id": "195",
+    "name": "Ruta 29",
+    "pokemon_complete": [
+      {
+        "name": "CORVIKNIGHT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "MIGHTYENA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "RABSCA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "SLIGGOO",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "SPINDA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "ELECTRODE_1",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "LILLIGANT_1",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "GRIMER_1",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "MUK_1",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CORVIKNIGHT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "MIGHTYENA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "RABSCA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "SLIGGOO",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "SPINDA",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ]
+  },
+  {
+    "id": "197",
+    "name": "Cabo Magenta",
+    "pokemon_complete": [
+      {
+        "name": "ALTARIA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "DURALUDON",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "GASTRODON",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "ILLUMISE",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "VOLBEAT",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "PALOSSAND",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "SLIGGOO_1",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "GOODRA_1",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "ALTARIA",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "GASTRODON",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "ILLUMISE",
+        "min_level": 75,
+        "max_level": 77
+      },
+      {
+        "name": "VOLBEAT",
+        "min_level": 75,
+        "max_level": 77
+      }
+    ]
+  },
+  {
+    "id": "199",
+    "name": "Bosque Arcoiris",
+    "pokemon_complete": [
+      {
+        "name": "CHERRIM",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "RIBOMBEE",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "SLURPUFF",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "TOGEKISS",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "AROMATISSE",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "RAPIDASH_1",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "VIVILLON",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "ZOROARK_1",
+        "min_level": 78,
+        "max_level": 81
+      }
+    ],
+    "pokemon_classic": [
+      {
+        "name": "CHERRIM",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "RIBOMBEE",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "SLURPUFF",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "TOGEKISS",
+        "min_level": 78,
+        "max_level": 81
+      },
+      {
+        "name": "WYRDEER",
+        "min_level": 78,
+        "max_level": 81
+      }
+    ]
+  }
+]

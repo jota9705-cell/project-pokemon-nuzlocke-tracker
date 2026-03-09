@@ -1,0 +1,75 @@
+{
+  "basic_rules": [
+    {
+      "id": "first_encounter",
+      "name": "Primera captura",
+      "description": "Solo puedes capturar el primer Pokémon de cada ruta",
+      "default": true,
+      "mandatory": true
+    },
+    {
+      "id": "fainted_is_dead",
+      "name": "Debilitado = Muerto",
+      "description": "Si un Pokémon se debilita, se considera muerto y debe ser liberado o boxeado permanentemente",
+      "default": true,
+      "mandatory": true
+    },
+    {
+      "id": "must_nickname",
+      "name": "Apodos obligatorios",
+      "description": "Debes ponerle un apodo a todos los Pokémon capturados",
+      "default": true,
+      "mandatory": true
+    }
+  ],
+  "optional_rules": [
+    {
+      "id": "dupes_clause",
+      "name": "Dupes Clause",
+      "description": "Si encuentras un Pokémon que ya tienes, puedes buscar otro en la misma ruta",
+      "default": false
+    },
+    {
+      "id": "shiny_clause",
+      "name": "Shiny Clause",
+      "description": "Los Pokémon shiny pueden ser capturados sin importar la regla de primera captura",
+      "default": true
+    },
+    {
+      "id": "revival_tokens",
+      "name": "Tokens de Revival (Mecánica Añil)",
+      "description": "Puedes revivir 1 Pokémon por cada gimnasio vencido usando los objetos de revival del juego",
+      "default": false
+    },
+    {
+      "id": "level_cap",
+      "name": "Level Cap",
+      "description": "No puedes superar el nivel del siguiente líder de gimnasio",
+      "default": false
+    },
+    {
+      "id": "no_items_battle",
+      "name": "Sin ítems en combate",
+      "description": "No puedes usar ítems durante los combates (excepto held items)",
+      "default": false
+    },
+    {
+      "id": "set_mode",
+      "name": "Modo Set",
+      "description": "No puedes cambiar de Pokémon cuando el rival va a sacar uno nuevo",
+      "default": false
+    },
+    {
+      "id": "no_overleveling",
+      "name": "Sin sobreentrenamiento",
+      "description": "No puedes entrenar más allá del nivel cap del próximo gimnasio",
+      "default": false
+    },
+    {
+      "id": "species_clause",
+      "name": "Species Clause",
+      "description": "Solo puedes tener un Pokémon de cada especie en tu equipo al mismo tiempo",
+      "default": false
+    }
+  ]
+}

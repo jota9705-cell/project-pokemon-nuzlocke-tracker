@@ -1,0 +1,838 @@
+[
+  {
+    "gym_number": 1,
+    "name": "Brock",
+    "quote": "¡Me has dejado de piedra! Tus Pokémon son duros como una roca... ¡Está bien! ¡Ya paro con los chistes! ¡Je, je, je!",
+    "variants": [
+      {
+        "variant_name": "Brock",
+        "team": [
+          {
+            "name": "OMANYTE",
+            "level": 12
+          },
+          {
+            "name": "BONSLY",
+            "level": 12
+          },
+          {
+            "name": "ONIX",
+            "level": 14
+          }
+        ]
+      },
+      {
+        "variant_name": "Brock,1",
+        "team": [
+          {
+            "name": "DWEBBLE",
+            "level": 12
+          },
+          {
+            "name": "BONSLY",
+            "level": 12
+          },
+          {
+            "name": "ONIX",
+            "level": 14
+          }
+        ]
+      },
+      {
+        "variant_name": "Brock,2",
+        "team": [
+          {
+            "name": "DWEBBLE",
+            "level": 12
+          },
+          {
+            "name": "TYRUNT",
+            "level": 12
+          },
+          {
+            "name": "BONSLY",
+            "level": 13
+          },
+          {
+            "name": "ONIX",
+            "level": 14
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 1,
+    "name": "Norman",
+    "quote": "¡Ya veo que los jóvenes de Kanto os las gastáis bien!",
+    "variants": [
+      {
+        "variant_name": "Norman",
+        "team": [
+          {
+            "name": "SLAKOTH",
+            "level": 11
+          },
+          {
+            "name": "SKITTY",
+            "level": 11
+          },
+          {
+            "name": "LOUDRED",
+            "level": 12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 2,
+    "name": "Misty",
+    "quote": "¡Menuda lluvia de humildad me ha caído! Me he quedado empapada...",
+    "variants": [
+      {
+        "variant_name": "Misty",
+        "team": [
+          {
+            "name": "GOLDEEN",
+            "level": 22
+          },
+          {
+            "name": "GOLDUCK",
+            "level": 22
+          },
+          {
+            "name": "STARMIE",
+            "level": 23
+          }
+        ]
+      },
+      {
+        "variant_name": "Misty,1",
+        "team": [
+          {
+            "name": "GOLDEEN",
+            "level": 22
+          },
+          {
+            "name": "FLOATZEL",
+            "level": 22
+          },
+          {
+            "name": "STARMIE",
+            "level": 23
+          }
+        ]
+      },
+      {
+        "variant_name": "Misty,2",
+        "team": [
+          {
+            "name": "GOLDUCK",
+            "level": 22
+          },
+          {
+            "name": "SEADRA",
+            "level": 22
+          },
+          {
+            "name": "FLOATZEL",
+            "level": 22
+          },
+          {
+            "name": "STARMIE",
+            "level": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 2,
+    "name": "Candela",
+    "quote": "¡Buah! ¡No esperaba encontrarme con un oponente tan tremendo en un sitio tan tranquilo!",
+    "variants": [
+      {
+        "variant_name": "Candela",
+        "team": [
+          {
+            "name": "MAGMAR",
+            "level": 21
+          },
+          {
+            "name": "MAGCARGO",
+            "level": 21
+          },
+          {
+            "name": "TORKOAL",
+            "level": 22
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 3,
+    "name": "Teniente Surge",
+    "quote": "¡Qué electrizante! ¡Es como si un relámpago me hubiera recorrido todo el cuerpo! Eres buen soldado.",
+    "variants": [
+      {
+        "variant_name": "Teniente Surge",
+        "team": [
+          {
+            "name": "ELECTRODE",
+            "level": 28
+          },
+          {
+            "name": "MAGNETON",
+            "level": 29
+          },
+          {
+            "name": "LANTURN",
+            "level": 29
+          },
+          {
+            "name": "RAICHU",
+            "level": 30
+          }
+        ]
+      },
+      {
+        "variant_name": "Teniente Surge,1",
+        "team": [
+          {
+            "name": "ELECTRODE",
+            "level": 28
+          },
+          {
+            "name": "MAGNETON",
+            "level": 29
+          },
+          {
+            "name": "GALVANTULA",
+            "level": 29
+          },
+          {
+            "name": "RAICHU",
+            "level": 30
+          }
+        ]
+      },
+      {
+        "variant_name": "Teniente Surge,2",
+        "team": [
+          {
+            "name": "ELECTRODE",
+            "level": 28
+          },
+          {
+            "name": "MAGNETON",
+            "level": 29
+          },
+          {
+            "name": "KILOWATTREL",
+            "level": 29
+          },
+          {
+            "name": "GALVANTULA",
+            "level": 29
+          },
+          {
+            "name": "RAICHU",
+            "level": 30
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 3,
+    "name": "Alana",
+    "quote": "¡Te espera una carrera muy prometedora en esto! ¡De altos vuelos, diría yo!",
+    "variants": [
+      {
+        "variant_name": "Alana",
+        "team": [
+          {
+            "name": "TROPIUS",
+            "level": 26
+          },
+          {
+            "name": "PELIPPER",
+            "level": 26
+          },
+          {
+            "name": "SKARMORY",
+            "level": 26
+          },
+          {
+            "name": "ALTARIA",
+            "level": 27
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 4,
+    "name": "Erika",
+    "quote": "¡Has plantado una semilla de grandeza con este combate! ¡Podrías llegar a participar incluso en la Liga Pokémon!",
+    "variants": [
+      {
+        "variant_name": "Erika",
+        "team": [
+          {
+            "name": "TANGROWTH",
+            "level": 37
+          },
+          {
+            "name": "SUDOWOODO",
+            "level": 38
+          },
+          {
+            "name": "BELLOSSOM",
+            "level": 38
+          },
+          {
+            "name": "VILEPLUME",
+            "level": 39
+          }
+        ]
+      },
+      {
+        "variant_name": "Erika,1",
+        "team": [
+          {
+            "name": "TANGROWTH",
+            "level": 37
+          },
+          {
+            "name": "SUDOWOODO",
+            "level": 38
+          },
+          {
+            "name": "LILLIGANT",
+            "level": 38
+          },
+          {
+            "name": "VILEPLUME",
+            "level": 39
+          }
+        ]
+      },
+      {
+        "variant_name": "Erika,2",
+        "team": [
+          {
+            "name": "TANGROWTH",
+            "level": 37
+          },
+          {
+            "name": "SUDOWOODO",
+            "level": 38
+          },
+          {
+            "name": "LILLIGANT",
+            "level": 38
+          },
+          {
+            "name": "VILEPLUME",
+            "level": 39
+          },
+          {
+            "name": "VICTREEBEL",
+            "level": 38
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 4,
+    "name": "Erico",
+    "quote": "¡Esto sí que es todo un giro de los acontecimientos! ¡Ja, ja, ja!",
+    "variants": [
+      {
+        "variant_name": "Erico",
+        "team": [
+          {
+            "name": "EMOLGA",
+            "level": 36
+          },
+          {
+            "name": "ELECTABUZZ",
+            "level": 36
+          },
+          {
+            "name": "EELEKTROSS",
+            "level": 36
+          },
+          {
+            "name": "MANECTRIC",
+            "level": 37
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 5,
+    "name": "Koga y Sachiko",
+    "quote": "La fuerza bruta no lo es todo en los combates, pero eso tú ya lo sabías.",
+    "variants": [
+      {
+        "variant_name": "Koga y Sachiko",
+        "team": [
+          {
+            "name": "TENTACRUEL",
+            "level": 48
+          },
+          {
+            "name": "MUK",
+            "level": 48
+          },
+          {
+            "name": "CROBAT",
+            "level": 49
+          },
+          {
+            "name": "BEEDRILL",
+            "level": 49
+          }
+        ]
+      },
+      {
+        "variant_name": "Koga y Sachiko,1",
+        "team": [
+          {
+            "name": "DRAGALGE",
+            "level": 48
+          },
+          {
+            "name": "DRAPION",
+            "level": 48
+          },
+          {
+            "name": "CROBAT",
+            "level": 49
+          },
+          {
+            "name": "BEEDRILL",
+            "level": 49
+          }
+        ]
+      },
+      {
+        "variant_name": "Koga y Sachiko,2",
+        "team": [
+          {
+            "name": "DRAGALGE",
+            "level": 48
+          },
+          {
+            "name": "ACCELGOR",
+            "level": 48
+          },
+          {
+            "name": "DRAPION",
+            "level": 48
+          },
+          {
+            "name": "GRENINJA",
+            "level": 48
+          },
+          {
+            "name": "CROBAT",
+            "level": 49
+          },
+          {
+            "name": "BEEDRILL",
+            "level": 49
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 5,
+    "name": "Petra",
+    "quote": "¡Ostras! ¡Ya veo que llevas bastante ventaja en esto! ¿Dónde has aprendido tan bien?",
+    "variants": [
+      {
+        "variant_name": "Petra",
+        "team": [
+          {
+            "name": "ARMALDO",
+            "level": 46
+          },
+          {
+            "name": "CRADILY",
+            "level": 46
+          },
+          {
+            "name": "PROBOPASS",
+            "level": 47
+          },
+          {
+            "name": "AERODACTYL",
+            "level": 46
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 6,
+    "name": "Sabrina",
+    "quote": "Ya veo, ya. Todo empieza a verse con más claridad, como nubes disipándose en el horizonte.",
+    "variants": [
+      {
+        "variant_name": "Sabrina",
+        "team": [
+          {
+            "name": "FARIGIRAF",
+            "level": 53
+          },
+          {
+            "name": "ESPEON",
+            "level": 53
+          },
+          {
+            "name": "SLOWKING",
+            "level": 53
+          },
+          {
+            "name": "XATU",
+            "level": 53
+          },
+          {
+            "name": "ALAKAZAM",
+            "level": 54
+          }
+        ]
+      },
+      {
+        "variant_name": "Sabrina,1",
+        "team": [
+          {
+            "name": "FARIGIRAF",
+            "level": 53
+          },
+          {
+            "name": "GOTHITELLE",
+            "level": 53
+          },
+          {
+            "name": "SLOWKING",
+            "level": 53
+          },
+          {
+            "name": "SIGILYPH",
+            "level": 53
+          },
+          {
+            "name": "ALAKAZAM",
+            "level": 54
+          }
+        ]
+      },
+      {
+        "variant_name": "Sabrina,2",
+        "team": [
+          {
+            "name": "FARIGIRAF",
+            "level": 53
+          },
+          {
+            "name": "ARMAROUGE",
+            "level": 53
+          },
+          {
+            "name": "MEDICHAM",
+            "level": 53
+          },
+          {
+            "name": "SIGILYPH",
+            "level": 53
+          },
+          {
+            "name": "METAGROSS",
+            "level": 53
+          },
+          {
+            "name": "ALAKAZAM",
+            "level": 54
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 6,
+    "name": "Marcial",
+    "quote": "¡Esto sí que es un entrenamiento de categoría! ¡Me has obligado a ir con todo y más allá!",
+    "variants": [
+      {
+        "variant_name": "Marcial",
+        "team": [
+          {
+            "name": "MIENSHAO",
+            "level": 50
+          },
+          {
+            "name": "LUCARIO",
+            "level": 50
+          },
+          {
+            "name": "MACHAMP",
+            "level": 51
+          },
+          {
+            "name": "HARIYAMA",
+            "level": 52
+          },
+          {
+            "name": "MEDICHAM",
+            "level": 51
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 7,
+    "name": "Blaine",
+    "quote": "¡Qué combate tan asombroso! De tanto encender mi fuego, he quedado reducido a cenizas.",
+    "variants": [
+      {
+        "variant_name": "Blaine",
+        "team": [
+          {
+            "name": "NINETALES",
+            "level": 56
+          },
+          {
+            "name": "ARCANINE",
+            "level": 58
+          },
+          {
+            "name": "SUNFLORA",
+            "level": 58
+          },
+          {
+            "name": "TYPHLOSION",
+            "level": 58
+          },
+          {
+            "name": "HOUNDOOM",
+            "level": 59
+          }
+        ]
+      },
+      {
+        "variant_name": "Blaine,1",
+        "team": [
+          {
+            "name": "TORKOAL",
+            "level": 56
+          },
+          {
+            "name": "TURTONATOR",
+            "level": 57
+          },
+          {
+            "name": "SUNFLORA",
+            "level": 58
+          },
+          {
+            "name": "TYPHLOSION",
+            "level": 58
+          },
+          {
+            "name": "HOUNDOOM",
+            "level": 59
+          }
+        ]
+      },
+      {
+        "variant_name": "Blaine,2",
+        "team": [
+          {
+            "name": "TORKOAL",
+            "level": 56
+          },
+          {
+            "name": "DARMANITAN",
+            "level": 57
+          },
+          {
+            "name": "TURTONATOR",
+            "level": 57
+          },
+          {
+            "name": "SUNFLORA",
+            "level": 58
+          },
+          {
+            "name": "TYPHLOSION",
+            "level": 58
+          },
+          {
+            "name": "HOUNDOOM",
+            "level": 59
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 7,
+    "name": "Plubio",
+    "quote": "¡Tú no entrenas Pokémon! ¡Tú haces arte, créeme!",
+    "variants": [
+      {
+        "variant_name": "Plubio",
+        "team": [
+          {
+            "name": "LUDICOLO",
+            "level": 55
+          },
+          {
+            "name": "GYARADOS",
+            "level": 55
+          },
+          {
+            "name": "KINGDRA",
+            "level": 56
+          },
+          {
+            "name": "MILOTIC",
+            "level": 57
+          },
+          {
+            "name": "SHARPEDO",
+            "level": 56
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 8,
+    "name": "Urano",
+    "quote": "Al igual que un insecto puede levantar hasta 10 veces su peso, tú también has desplegado un poder 10 veces mayor del que aparentas. Y por eso te alabo y te reverencio.",
+    "variants": [
+      {
+        "variant_name": "Urano",
+        "team": [
+          {
+            "name": "SCYTHER",
+            "level": 64
+          },
+          {
+            "name": "HERACROSS",
+            "level": 64
+          },
+          {
+            "name": "KABUTOPS",
+            "level": 64
+          },
+          {
+            "name": "YANMEGA",
+            "level": 65
+          },
+          {
+            "name": "PINSIR",
+            "level": 66
+          }
+        ]
+      },
+      {
+        "variant_name": "Urano,1",
+        "team": [
+          {
+            "name": "SCYTHER",
+            "level": 64
+          },
+          {
+            "name": "HERACROSS",
+            "level": 64
+          },
+          {
+            "name": "KABUTOPS",
+            "level": 64
+          },
+          {
+            "name": "YANMEGA",
+            "level": 65
+          },
+          {
+            "name": "PINSIR",
+            "level": 66
+          }
+        ]
+      },
+      {
+        "variant_name": "Urano,2",
+        "team": [
+          {
+            "name": "SCYTHER",
+            "level": 64
+          },
+          {
+            "name": "GOLISOPOD",
+            "level": 64
+          },
+          {
+            "name": "HERACROSS",
+            "level": 64
+          },
+          {
+            "name": "KABUTOPS",
+            "level": 64
+          },
+          {
+            "name": "YANMEGA",
+            "level": 65
+          },
+          {
+            "name": "PINSIR",
+            "level": 66
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "gym_number": 8,
+    "name": "Vito y Leti",
+    "quote": "Aún siendo dos contra uno, no teníamos ninguna posibilidad. Sin duda, eres alguien fuera de serie.",
+    "variants": [
+      {
+        "variant_name": "Vito y Leti",
+        "team": [
+          {
+            "name": "SOLROCK",
+            "level": 67
+          },
+          {
+            "name": "LUNATONE",
+            "level": 67
+          },
+          {
+            "name": "CLAYDOL",
+            "level": 67
+          },
+          {
+            "name": "GALLADE",
+            "level": 68
+          },
+          {
+            "name": "GARDEVOIR",
+            "level": 68
+          }
+        ]
+      }
+    ]
+  }
+]

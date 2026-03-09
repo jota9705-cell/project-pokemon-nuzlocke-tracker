@@ -1,0 +1,870 @@
+[
+  {
+    "id": "002",
+    "name": "Pueblo Paleta"
+  },
+  {
+    "id": "003",
+    "name": "Ruta 1"
+  },
+  {
+    "id": "004",
+    "name": "Ciudad Verde"
+  },
+  {
+    "id": "005",
+    "name": "Ruta 20"
+  },
+  {
+    "id": "006",
+    "name": "Ruta 2 Sur"
+  },
+  {
+    "id": "007",
+    "name": "Ruta 2 Norte"
+  },
+  {
+    "id": "008",
+    "name": "Bosque Verde"
+  },
+  {
+    "id": "009",
+    "name": "Ciudad Plateada"
+  },
+  {
+    "id": "010",
+    "name": "Ruta 3"
+  },
+  {
+    "id": "011",
+    "name": "Monte Moon"
+  },
+  {
+    "id": "012",
+    "name": "Monte Moon Exterior"
+  },
+  {
+    "id": "013",
+    "name": "Monte Moon"
+  },
+  {
+    "id": "014",
+    "name": "Ruta 4"
+  },
+  {
+    "id": "015",
+    "name": "Ciudad Celeste"
+  },
+  {
+    "id": "016",
+    "name": "Ruta 20"
+  },
+  {
+    "id": "017",
+    "name": "Ruta 5"
+  },
+  {
+    "id": "018",
+    "name": "Ruta 6"
+  },
+  {
+    "id": "019",
+    "name": "Ciudad Carmín"
+  },
+  {
+    "id": "020",
+    "name": "Ruta 15"
+  },
+  {
+    "id": "021",
+    "name": "Túnel Diglett"
+  },
+  {
+    "id": "022",
+    "name": "Ruta 9"
+  },
+  {
+    "id": "023",
+    "name": "Ruta 10 Norte"
+  },
+  {
+    "id": "024",
+    "name": "Ruta 10 Sur"
+  },
+  {
+    "id": "025",
+    "name": "Túnel Roca"
+  },
+  {
+    "id": "026",
+    "name": "Túnel Roca"
+  },
+  {
+    "id": "027",
+    "name": "Pueblo Lavanda"
+  },
+  {
+    "id": "028",
+    "name": "Casa"
+  },
+  {
+    "id": "029",
+    "name": "Laboratorio"
+  },
+  {
+    "id": "030",
+    "name": "Casa"
+  },
+  {
+    "id": "031",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "032",
+    "name": "Escuela"
+  },
+  {
+    "id": "033",
+    "name": "Transición"
+  },
+  {
+    "id": "034",
+    "name": "Casa"
+  },
+  {
+    "id": "035",
+    "name": "Transición"
+  },
+  {
+    "id": "036",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "037",
+    "name": "Casa"
+  },
+  {
+    "id": "038",
+    "name": "Casa"
+  },
+  {
+    "id": "039",
+    "name": "Casino Azulona"
+  },
+  {
+    "id": "040",
+    "name": "Museo Pokémon"
+  },
+  {
+    "id": "041",
+    "name": "Casa"
+  },
+  {
+    "id": "042",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "043",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "044",
+    "name": "Caravana"
+  },
+  {
+    "id": "045",
+    "name": "Casa"
+  },
+  {
+    "id": "046",
+    "name": "Transición"
+  },
+  {
+    "id": "047",
+    "name": "Transición"
+  },
+  {
+    "id": "048",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "049",
+    "name": "Guardería"
+  },
+  {
+    "id": "050",
+    "name": "Casa"
+  },
+  {
+    "id": "051",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "052",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "053",
+    "name": "Casa"
+  },
+  {
+    "id": "054",
+    "name": "Casa"
+  },
+  {
+    "id": "055",
+    "name": "Subterráneo"
+  },
+  {
+    "id": "056",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "057",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "058",
+    "name": "S.S Anne"
+  },
+  {
+    "id": "059",
+    "name": "S.S Anne"
+  },
+  {
+    "id": "060",
+    "name": "Tienda de Bicis"
+  },
+  {
+    "id": "061",
+    "name": "Cafetería"
+  },
+  {
+    "id": "062",
+    "name": "Casa de Bill"
+  },
+  {
+    "id": "063",
+    "name": "Club de Fans Pokémon"
+  },
+  {
+    "id": "064",
+    "name": "Torre Pokémon"
+  },
+  {
+    "id": "065",
+    "name": "Torre Pokémon"
+  },
+  {
+    "id": "066",
+    "name": "Transición"
+  },
+  {
+    "id": "067",
+    "name": "Refugio Fuji"
+  },
+  {
+    "id": "068",
+    "name": "Transición"
+  },
+  {
+    "id": "069",
+    "name": "Ciudad Carmín"
+  },
+  {
+    "id": "070",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "071",
+    "name": "Ruta 8"
+  },
+  {
+    "id": "072",
+    "name": "Ruta 7"
+  },
+  {
+    "id": "073",
+    "name": "Transición"
+  },
+  {
+    "id": "074",
+    "name": "Transición"
+  },
+  {
+    "id": "075",
+    "name": "Subterráneo"
+  },
+  {
+    "id": "076",
+    "name": "Ciudad Azulona"
+  },
+  {
+    "id": "077",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "078",
+    "name": "Centro Comercial"
+  },
+  {
+    "id": "079",
+    "name": "Restaurante de Ramen"
+  },
+  {
+    "id": "080",
+    "name": "Edificio Azulona"
+  },
+  {
+    "id": "081",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "082",
+    "name": "Guarida Rocket"
+  },
+  {
+    "id": "083",
+    "name": "Guarida Rocket"
+  },
+  {
+    "id": "084",
+    "name": "Guarida Rocket"
+  },
+  {
+    "id": "085",
+    "name": "Guarida Rocket"
+  },
+  {
+    "id": "086",
+    "name": "Ruta 12"
+  },
+  {
+    "id": "087",
+    "name": "Ruta 11"
+  },
+  {
+    "id": "088",
+    "name": "Transición"
+  },
+  {
+    "id": "089",
+    "name": "Casa"
+  },
+  {
+    "id": "090",
+    "name": "Casa"
+  },
+  {
+    "id": "091",
+    "name": "Pueblo Marengo"
+  },
+  {
+    "id": "092",
+    "name": "Ruta 13"
+  },
+  {
+    "id": "093",
+    "name": "Ruta 14"
+  },
+  {
+    "id": "094",
+    "name": "Ciudad Fucsia"
+  },
+  {
+    "id": "095",
+    "name": "Ruta 16"
+  },
+  {
+    "id": "096",
+    "name": "Transición"
+  },
+  {
+    "id": "097",
+    "name": "Ruta 17"
+  },
+  {
+    "id": "098",
+    "name": "Transición"
+  },
+  {
+    "id": "099",
+    "name": "Ciudad Azafrán"
+  },
+  {
+    "id": "100",
+    "name": "Silph S.A"
+  },
+  {
+    "id": "101",
+    "name": "Silph S.A"
+  },
+  {
+    "id": "102",
+    "name": "Silph S.A"
+  },
+  {
+    "id": "103",
+    "name": "Intro de verdad"
+  },
+  {
+    "id": "104",
+    "name": "Intro de verdad de la buena"
+  },
+  {
+    "id": "105",
+    "name": "Ruta 18"
+  },
+  {
+    "id": "106",
+    "name": "Ruta 19"
+  },
+  {
+    "id": "107",
+    "name": "Ruta 3"
+  },
+  {
+    "id": "108",
+    "name": "Ruta 12"
+  },
+  {
+    "id": "109",
+    "name": "Ruta 21"
+  },
+  {
+    "id": "110",
+    "name": "Camino de Bicis"
+  },
+  {
+    "id": "111",
+    "name": "Camino de Bicis"
+  },
+  {
+    "id": "112",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "113",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "114",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "115",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "116",
+    "name": "Isla Canela"
+  },
+  {
+    "id": "117",
+    "name": "Dojo Azafrán"
+  },
+  {
+    "id": "118",
+    "name": "Laboratorio Canela"
+  },
+  {
+    "id": "119",
+    "name": "Mansión Quemada"
+  },
+  {
+    "id": "120",
+    "name": "Mansión Quemada"
+  },
+  {
+    "id": "121",
+    "name": "Mansión Quemada"
+  },
+  {
+    "id": "122",
+    "name": "Mansión Quemada"
+  },
+  {
+    "id": "123",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "124",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "125",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "126",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "127",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "128",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "129",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "130",
+    "name": "Islas Espuma"
+  },
+  {
+    "id": "131",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "132",
+    "name": "Liga Pokémon"
+  },
+  {
+    "id": "133",
+    "name": "Islas Espuma"
+  },
+  {
+    "id": "134",
+    "name": "Islas Espuma"
+  },
+  {
+    "id": "135",
+    "name": "Islas Espuma"
+  },
+  {
+    "id": "136",
+    "name": "Islas Espuma"
+  },
+  {
+    "id": "137",
+    "name": "Transición"
+  },
+  {
+    "id": "138",
+    "name": "Casa"
+  },
+  {
+    "id": "139",
+    "name": "Casa"
+  },
+  {
+    "id": "140",
+    "name": "Casa"
+  },
+  {
+    "id": "141",
+    "name": "Casa"
+  },
+  {
+    "id": "142",
+    "name": "Tienda Exótica"
+  },
+  {
+    "id": "143",
+    "name": "Casa del Guarda"
+  },
+  {
+    "id": "144",
+    "name": "Casa del Sr. Psíquico"
+  },
+  {
+    "id": "145",
+    "name": "Estación del Magnetotrén"
+  },
+  {
+    "id": "146",
+    "name": "Granja Marengo"
+  },
+  {
+    "id": "147",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "148",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "149",
+    "name": "Zona Safari"
+  },
+  {
+    "id": "150",
+    "name": "Central Energía"
+  },
+  {
+    "id": "151",
+    "name": "Volcán Canela"
+  },
+  {
+    "id": "152",
+    "name": "Volcán Canela"
+  },
+  {
+    "id": "153",
+    "name": "Volcán Canela"
+  },
+  {
+    "id": "154",
+    "name": "Ruta 21"
+  },
+  {
+    "id": "155",
+    "name": "Ruta 22"
+  },
+  {
+    "id": "156",
+    "name": "Ruta 22"
+  },
+  {
+    "id": "157",
+    "name": "Cataratas Tohjo"
+  },
+  {
+    "id": "158",
+    "name": "Ruta 23"
+  },
+  {
+    "id": "159",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "160",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "161",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "162",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "163",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "164",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "165",
+    "name": "Monte Plateado"
+  },
+  {
+    "id": "166",
+    "name": "Ruta 25"
+  },
+  {
+    "id": "167",
+    "name": "Ciudad Añil"
+  },
+  {
+    "id": "168",
+    "name": "Cueva Celeste"
+  },
+  {
+    "id": "169",
+    "name": "Cueva Celeste"
+  },
+  {
+    "id": "170",
+    "name": "Cueva Celeste"
+  },
+  {
+    "id": "171",
+    "name": "Casa"
+  },
+  {
+    "id": "172",
+    "name": "Liga Pokémon"
+  },
+  {
+    "id": "173",
+    "name": "Liga Pokémon"
+  },
+  {
+    "id": "174",
+    "name": "Bosque Celeste"
+  },
+  {
+    "id": "175",
+    "name": "Casa"
+  },
+  {
+    "id": "176",
+    "name": "Casa"
+  },
+  {
+    "id": "177",
+    "name": "Casa"
+  },
+  {
+    "id": "178",
+    "name": "Claro Secreto"
+  },
+  {
+    "id": "179",
+    "name": "Guarida Rocket"
+  },
+  {
+    "id": "180",
+    "name": "Hostal Añil"
+  },
+  {
+    "id": "181",
+    "name": "Cataratas Tohjo"
+  },
+  {
+    "id": "182",
+    "name": "Gimnasio Pokémon"
+  },
+  {
+    "id": "183",
+    "name": "Villa Ámbar"
+  },
+  {
+    "id": "184",
+    "name": "Ruta 26"
+  },
+  {
+    "id": "185",
+    "name": "Villa Azabache"
+  },
+  {
+    "id": "186",
+    "name": "Cabo Azabache"
+  },
+  {
+    "id": "187",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "188",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "189",
+    "name": "Ruta 27"
+  },
+  {
+    "id": "190",
+    "name": "Islote Recuerdo"
+  },
+  {
+    "id": "191",
+    "name": "Ruta 28"
+  },
+  {
+    "id": "192",
+    "name": "Villa Magenta"
+  },
+  {
+    "id": "193",
+    "name": "Centro Pokémon"
+  },
+  {
+    "id": "194",
+    "name": "Ruta 29"
+  },
+  {
+    "id": "195",
+    "name": "Ruta 29"
+  },
+  {
+    "id": "196",
+    "name": "Ruta 30"
+  },
+  {
+    "id": "197",
+    "name": "Cabo Magenta"
+  },
+  {
+    "id": "198",
+    "name": "Cueva Glaciada"
+  },
+  {
+    "id": "199",
+    "name": "Bosque Arcoiris"
+  },
+  {
+    "id": "200",
+    "name": "Cueva Perdida"
+  },
+  {
+    "id": "201",
+    "name": "Bosque Arcoiris"
+  },
+  {
+    "id": "202",
+    "name": "Casa"
+  },
+  {
+    "id": "203",
+    "name": "Casa"
+  },
+  {
+    "id": "204",
+    "name": "Casa"
+  },
+  {
+    "id": "205",
+    "name": "Casa"
+  },
+  {
+    "id": "206",
+    "name": "Casa"
+  },
+  {
+    "id": "207",
+    "name": "Dojo Magenta"
+  },
+  {
+    "id": "208",
+    "name": "Créditos"
+  },
+  {
+    "id": "209",
+    "name": "Créditos 2"
+  },
+  {
+    "id": "210",
+    "name": "Créditos 3"
+  },
+  {
+    "id": "211",
+    "name": "Créditos 4"
+  },
+  {
+    "id": "212",
+    "name": "Escena"
+  },
+  {
+    "id": "213",
+    "name": "Almacén Secreto"
+  },
+  {
+    "id": "214",
+    "name": "Almacén Rocket"
+  },
+  {
+    "id": "215",
+    "name": "Torre Batalla"
+  },
+  {
+    "id": "216",
+    "name": "Ciudad Carmín"
+  },
+  {
+    "id": "217",
+    "name": "Laboratorio"
+  },
+  {
+    "id": "219",
+    "name": "Torre Pokémon"
+  }
+]
