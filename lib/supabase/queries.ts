@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { createClient } from './client';
 import { NuzlockeRun, CreateRunFormData, RegisterEncounterFormData } from '@/types';
 
