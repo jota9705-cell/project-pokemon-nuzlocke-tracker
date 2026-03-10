@@ -257,9 +257,9 @@ export default function RouteDetailPage() {
           <Card>
             <CardHeader>
               <CardTitle>Pokemon Disponibles</CardTitle>
-              <CardDescription>Selecciona el Pokemon que encontraste</CardDescription>
+              <CardDescription>Selecciona el Pokemon que encontraste o ingresa uno manualmente</CardDescription>
             </CardHeader>
-            <CardContent>
+            <CardContent className="space-y-4">
               <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
                 {pokemonList.map((pokemon) => (
                   <button
@@ -278,6 +278,19 @@ export default function RouteDetailPage() {
                     </div>
                   </button>
                 ))}
+              </div>
+
+              <div className="pt-4 border-t">
+                <Label htmlFor="customPokemon">O ingresa un Pokemon manualmente (ej: regalos, intercambios)</Label>
+                <Input
+                  type="text"
+                  id="customPokemon"
+                  value={selectedPokemon}
+                  onChange={(e) => setSelectedPokemon(e.target.value.toUpperCase())}
+                  placeholder="Ej: TOGEPI, EEVEE, LAPRAS"
+                  disabled={submitting}
+                  className="mt-2"
+                />
               </div>
             </CardContent>
           </Card>

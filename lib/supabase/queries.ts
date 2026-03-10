@@ -16,6 +16,7 @@ export async function createRun(data: CreateRunFormData, userId: string) {
       run_name: data.run_name,
       game_mode: data.game_mode,
       selected_rules: data.selected_rules,
+      is_active: true,
     })
     .select()
     .single();
@@ -63,9 +64,10 @@ export async function updateRun(runId: string, updates: Partial<NuzlockeRun>) {
 export async function deleteRun(runId: string) {
   const supabase = createClient();
 
+  // Soft delete: mark as deleted instead of removing
   const { error } = await supabase
     .from('nuzlocke_runs')
-    .delete()
+    .update({ deleted_at: new Date().toISOString() })
     .eq('id', runId);
 
   return { error };

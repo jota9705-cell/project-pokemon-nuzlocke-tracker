@@ -23,6 +23,7 @@ export interface NuzlockeRun {
   created_at: string;
   completed_at?: string;
   updated_at: string;
+  deleted_at?: string | null;
 }
 
 export interface Encounter {

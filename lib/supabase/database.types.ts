@@ -27,6 +27,7 @@ export interface Database {
           created_at: string
           completed_at: string | null
           updated_at: string
+          deleted_at: string | null
         }
         Insert: {
           id?: string
