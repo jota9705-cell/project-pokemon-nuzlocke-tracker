@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { useAuth } from '@/lib/hooks/useAuth';
-import { getUserRuns } from '@/lib/supabase/queries';
+import { getUserRuns, deleteRun } from '@/lib/supabase/queries';
 import { Button } from '@/components/ui/button';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
 import { RunCard } from '@/components/cards/RunCard';
@@ -55,6 +55,17 @@ export default function DashboardPage() {
   const handleSignOut = async () => {
     await signOut();
     router.push('/');
+  };
+
+  const handleDeleteRun = async (runId: string) => {
+    const { error } = await deleteRun(runId);
+
+    if (!error) {
+      // Reload runs after deletion
+      loadRuns();
+    } else {
+      alert('Error al eliminar el run');
+    }
   };
 
   const activeRuns = runs.filter(run => run.is_active);
@@ -149,7 +160,7 @@ export default function DashboardPage() {
             <h3 className="text-xl font-semibold mb-4">Tus Runs</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
               {runs.map((run) => (
-                <RunCard key={run.id} run={run} />
+                <RunCard key={run.id} run={run} onDelete={handleDeleteRun} />
               ))}
             </div>
           </div>
