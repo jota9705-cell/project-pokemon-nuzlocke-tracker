@@ -69,6 +69,7 @@ export interface Database {
           pokemon_level: number
           nickname: string | null
           status: 'alive' | 'dead' | 'boxed'
+          acquisition_method: 'wild' | 'gift' | 'trade'
           is_in_team: boolean
           team_position: number | null
           is_shiny: boolean
@@ -90,6 +91,7 @@ export interface Database {
           pokemon_level: number
           nickname?: string | null
           status?: 'alive' | 'dead' | 'boxed'
+          acquisition_method?: 'wild' | 'gift' | 'trade'
           is_in_team?: boolean
           team_position?: number | null
           is_shiny?: boolean
@@ -111,6 +113,7 @@ export interface Database {
           pokemon_level?: number
           nickname?: string | null
           status?: 'alive' | 'dead' | 'boxed'
+          acquisition_method?: 'wild' | 'gift' | 'trade'
           is_in_team?: boolean
           team_position?: number | null
           is_shiny?: boolean
